@@ -1,0 +1,7 @@
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\bin\Debug\ProjectMnemosyne.exe.config
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\bin\Debug\ProjectMnemosyne.exe
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\bin\Debug\ProjectMnemosyne.pdb
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\obj\Debug\ProjectMnemosyne.csproj.AssemblyReference.cache
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\obj\Debug\ProjectMnemosyne.csproj.CoreCompileInputs.cache
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\obj\Debug\ProjectMnemosyne.exe
+C:\Users\23941648837\source\repos\ProjectMnemosyne\ProjectMnemosyne\obj\Debug\ProjectMnemosyne.pdb
